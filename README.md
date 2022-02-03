@@ -40,7 +40,7 @@ UI Connections where a little tricky, For most UI connections I had to code
 everything, and not drag and drop.
 
 ##GIF
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://recordit.co/0XWdb1cGox)
 ## License
 
     Copyright [2022] [Omhier Khan]
