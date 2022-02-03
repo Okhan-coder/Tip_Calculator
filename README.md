@@ -36,11 +36,15 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-UI Connections where a little tricky, For most UI connections I had to code
-everything, and not drag and drop.
+UI Connections where a little tricky, not used to it.
 
 ##GIF
+
+
 ![Alt Text](https://recordit.co/0XWdb1cGox.gif)
+
+
+
 ## License
 
     Copyright [2022] [Omhier Khan]
